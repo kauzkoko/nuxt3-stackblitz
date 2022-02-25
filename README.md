@@ -1,3 +1,5 @@
-# node-jvtpj5
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-jvtpj5)
+nuxt3
+- strapi & graphql
+- supabase
+- unocss
+- vueuse
